@@ -1,0 +1,7 @@
+#Backslash
+
+#But what if you want to include a single quote in a single-quoted string (or a double quote in a double-quoted string)? Normally this would confuse Python and break the code, that is unless you escape the quotes using a backslash.
+
+#Backslashes that we use for escaping, don’t get displayed in the output.
+
+print('Brian\'s mother: He\'s not an angel. He\'s a very naughty boy!') #Brian's mother: He's not an angel. He's a very naughty boy!
