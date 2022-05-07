@@ -1,0 +1,5 @@
+print(20//6) #answer is 3, because it is the largest integer
+
+print(20%6) #answer is 2, because it is the remainder
+
+print(1.25%0.5) #answer is 0.25, because it is the remainder
