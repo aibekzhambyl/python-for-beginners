@@ -1,0 +1,17 @@
+#Newlines
+#Ok, so we can generate text, but it’d be pretty hard to read if everything was on one single line, right?
+#To create a new line we use \n.
+#\n can be used in strings to create multi-line outputs. Like this:
+print('One\nTwo \nThree')
+
+#Based on what we just learned, can you guess how we represent tab? That’s right, it’s \t.
+print('One\tTwo \tThree')
+
+#\n is useful, but it can be a bit of a pain if we’re trying to format lots of multiline text.
+#There’s another way though! Newlines are automatically added for strings created using three quotes.
+#For example:
+print("""this
+is a
+multiline
+text""")
+
