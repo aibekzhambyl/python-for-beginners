@@ -1,0 +1,6 @@
+x=input()
+print(x) #if you input 1, then 1 will be displayed
+
+name = input("Enter your name: ")
+print("Hello, " + name) #result is: Enter your name: Hello, Aibek
+
