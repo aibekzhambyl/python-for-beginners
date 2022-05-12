@@ -1,0 +1,4 @@
+#To assign a variable, use one equals sign
+#user="James"
+
+#Don’t forget, Python is a case sensitive language. Which means, Lastname and lastname are two different variable names.
